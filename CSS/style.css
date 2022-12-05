@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: pink;
+}
+/* meu css */
+#navbar {
+    display: flex;
+    justify-content: center;   
+}
+
+#navbar a {
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(128, 0, 49);
+}
+
+#navbar a:hover {
+    color: purple;
+    
+}
